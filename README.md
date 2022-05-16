@@ -1,1 +1,1 @@
-# lu-meche
+# Basic Matlab scripts
